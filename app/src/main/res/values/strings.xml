@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">StockPulse</string>
+    <string name="brand_tag">CEMJC  •  WAREHOUSE FLOOR OS</string>
+    <string name="app_title">StockPulse</string>
+    <string name="app_subtitle">Enterprise Inventory &amp; Logistics Control</string>
+    <string name="login_title">Operator Sign In</string>
+    <string name="login_subtitle">Enter credentials to access active warehouse terminal</string>
+    <string name="hint_email">Staff Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">AUTHENTICATE TERMINAL</string>
+    <string name="cd_logo">StockPulse Logo</string>
+    <string name="login_footer">🔒 Encrypted Terminal Session • StockPulse v1.0</string>
+
+    <!-- Dashboard Strings -->
+    <string name="welcome_default">Welcome, Staff</string>
+    <string name="stats_loading">Loading live warehouse feed&#8230;</string>
+    <string name="hint_search">Search SKU or Product Name&#8230;</string>
+    <string name="btn_logout">Logout</string>
+    <string name="fab_add_stock">ADD STOCK</string>
+    <string name="inventory_feed_title">LIVE INVENTORY FEED</string>
+
+    <!-- Add Product Strings -->
+    <string name="add_product_title">Register New Inventory</string>
+    <string name="add_product_subtitle">Add item details &amp; upload to warehouse server</string>
+    <string name="btn_take_photo">Take Photo</string>
+    <string name="btn_choose_gallery">Choose Gallery</string>
+    <string name="label_category">Category</string>
+    <string name="hint_sku">SKU Code (e.g., ELEC-905)</string>
+    <string name="hint_product_name">Product Name</string>
+    <string name="hint_description">Description / Bin Location</string>
+    <string name="hint_unit_price">Unit Price ($)</string>
+    <string name="hint_initial_qty">Initial Qty</string>
+    <string name="hint_min_threshold">Minimum Stock Threshold (Alert Trigger)</string>
+    <string name="btn_upload_product">UPLOAD TO WAREHOUSE SERVER</string>
+
+    <!-- Product Detail Strings -->
+    <string name="low_stock_label">LOW STOCK</string>
+    <string name="label_live_stock_count">LIVE FLOOR STOCK COUNT</string>
+    <string name="btn_save_changes">SAVE PRODUCT UPDATES</string>
+    <string name="btn_delete_product">DELETE PRODUCT FROM SYSTEM</string>
+    <string name="label_product_configuration">PRODUCT CONFIGURATION</string>
+    <string name="label_min_threshold">Alert Threshold (Min Qty)</string>
+    <string name="btn_minus_one">-1</string>
+    <string name="btn_plus_one">+1</string>
+</resources>
